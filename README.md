@@ -1,5 +1,6 @@
 # 🖼️ AI Generated Images
 
+```quote
 @misc{qwen3technicalreport,
       title={Qwen3 Technical Report}, 
       author={Qwen Team},
@@ -9,7 +10,7 @@
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2505.09388}, 
 }
-
+```
 ## Image: image_20250529_164843_974032_222.png
 **Prompt:** Romanian Brown Bear, vibrant colors, neon lights
 
